@@ -42,4 +42,4 @@ sources:
               - not_null
           - name: shipping_fee
           - name: logCost
-          - name: ship_cost
+          - name: ship_cos
